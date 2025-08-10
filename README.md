@@ -1,1 +1,3 @@
-# Dukesan7.github.io
+# Website
+
+Go to [https://jacksonrichards.dev/](https://jacksonrichards.dev/) instead.
